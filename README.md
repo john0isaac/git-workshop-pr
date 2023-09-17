@@ -3,5 +3,8 @@ A repository open for contributions from everyone who follows the Git, GitHub, a
 
 # Instructions
 
-- Add your name here using a pull request.
+- Add your name to the contribution list using a pull request.
+
+## Contribution List
+- John Aziz
 - 
