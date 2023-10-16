@@ -9,4 +9,5 @@ Add your name to the contribution list using a pull request.
 - John Aziz
 - Neha Kumari
 - Atharva Malode
-- 
+- Prathyush N M
+-
