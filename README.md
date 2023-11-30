@@ -15,3 +15,4 @@ Add your name to the contribution list using a pull request.
 - Tracey Chen
 - Sunny Saldana
 - Adrien Djebar
+- Uriel Ortega
