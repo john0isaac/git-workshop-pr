@@ -17,3 +17,4 @@ Add your name to the contribution list using a pull request.
 - Adrien Djebar
 - Uriel Ortega
 - Salma Essam
+- Om Vataliya
