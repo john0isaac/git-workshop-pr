@@ -8,7 +8,6 @@ Add your name to the contribution list using a pull request.
 
 ## Contribution List
 
-- Prince Kumar Pandey
 - John Aziz
 - Neha Kumari
 - Atharva Malode
@@ -20,3 +19,5 @@ Add your name to the contribution list using a pull request.
 - Salma Essam
 - Om Vataliya
 - Sahil
+- Prince Kumar Pandey
+  
