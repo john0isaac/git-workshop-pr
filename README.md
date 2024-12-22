@@ -19,3 +19,6 @@ Add your name to the contribution list using a pull request.
 - Salma Essam
 - Om Vataliya
 - Sahil Mehta
+- Prince Kumar Pandey
+- Aastha Sharma
+- Yeddula Epafra
