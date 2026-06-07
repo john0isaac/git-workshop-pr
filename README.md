@@ -25,3 +25,4 @@ Add your name to the contribution list using a pull request.
 - Dante
 - mina kh
 - Muhammad Asif Khan
+- Kashmala Akhtar
