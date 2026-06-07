@@ -24,8 +24,4 @@ Add your name to the contribution list using a pull request.
 - Yeddula Epafra
 - Dante
 - mina kh
-<<<<<<< HEAD
-- Muhammad Asif Khan (0016)
-=======
-- Muhammad Asif khan
->>>>>>> ed619b0eba4ff2155d7994f2b81aeec7e2415be2
+- Muhammad Asif Khan
